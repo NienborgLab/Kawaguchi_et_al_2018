@@ -2,10 +2,10 @@
 This repository contains Matlab code to replicate results in Kawaguchi et al., 2018.
 
 **"Differentiating between models of perceptual decision-making using pupil-size inferred confidence"**
-Katsuhisa Kawaguchi, Stephane Clery, Paria Pourriahi, Lenka Seillier, Ralf Haefner and Hendrikje Nienborg
+Katsuhisa Kawaguchi, Stephane Clery, Paria Pourriahi, Lenka Seillier, Ralf Haefner and Hendrikje Nienborg.
 Journal of Neuroscience 31 August 2018, 0735-18; DOI: https://doi.org/10.1523/JNEUROSCI.0735-18.2018 
 
-To reproduce all the results, first, you need to download our dataset (~ 7GB) from https://figshare.com/articles/Kawaguchi_et_al_2018/7053842.
+To reproduce all the results, first, you need to download our dataset (7.25 GB) from https://figshare.com/articles/Kawaguchi_et_al_2018/7076621.
 
 Once you download the dataset, do the followings.
 
