@@ -1,0 +1,5 @@
+data/
+*.asv
+*.mat
+*.txt
+*.fig
