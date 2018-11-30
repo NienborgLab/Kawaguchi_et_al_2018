@@ -3,7 +3,7 @@ This repository contains Matlab code to replicate results in Kawaguchi et al., 2
 
 **"Differentiating between models of perceptual decision-making using pupil-size inferred confidence"**
 Katsuhisa Kawaguchi, Stephane Clery, Paria Pourriahi, Lenka Seillier, Ralf Haefner and Hendrikje Nienborg.
-Journal of Neuroscience 31 August 2018, 0735-18; DOI: https://doi.org/10.1523/JNEUROSCI.0735-18.2018 
+Journal of Neuroscience 10 October 2018, 38 (41) 8874-8888; DOI: https://doi.org/10.1523/JNEUROSCI.0735-18.2018  
 
 To reproduce all the results, first, you need to download our dataset (7.25 GB) from https://figshare.com/articles/Kawaguchi_et_al_2018/7076621.
 
@@ -47,7 +47,7 @@ stimuli used in the task ('trmat') or preprocessed pupil size time-course ('psma
 
 ### Preprocessing
 The pupil size time-course was preprocessed using either low-pass or band-pass filters.
-The type of the preprocessing is indicated in the file-name. Please note that there is no '_lowpass_' file for 'trmat', as it was not used in the paper.
+The type of the preprocessing is indicated in the file-name. Please note that there is no '_lowpass_' file for 'trmat', as it was not used in the paper. Note that the unit of the pupil size here is arbitrary.
 
 ### Animals' names
 The part of the file-name '_kiwi' or '_mango' represents each animals' data: <br>
